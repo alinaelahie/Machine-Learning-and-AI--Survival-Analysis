@@ -17,7 +17,7 @@ The main goal of this analysis is to explore the factors influencing survival ou
 <h2>Clone the repository to your local machine:
 
 ### 
-git clone https://github.com/alinaelahie/Machine-Learning-and-AI--Survival-Analysis.git
+git clone https://github.com/User/repo.git
 
 <h2>Install the required libraries:
 
