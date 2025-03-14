@@ -1,5 +1,6 @@
 # Machine-Learning-and-AI--Survival-Analysis
 <h1>Overview
+### Regular Text
 <h3>This project focuses on survival analysis using the Head and Neck Cancer dataset sourced from The Cancer Imaging Archive. The dataset includes clinical information on patients diagnosed with head and neck cancer, with various features such as age, treatment modality, tumor stage, survival time, and event status (dead or alive).
 
 <h3>The main goal of this analysis is to explore the factors influencing survival outcomes and to apply various statistical techniques, including Kaplan-Meier survival curves, Cox Proportional Hazards model, and Random Survival Forest (RSF). These methods are used to investigate the clinical significance of factors like age, treatment type, and stage of the disease.
