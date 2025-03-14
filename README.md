@@ -8,9 +8,11 @@ This project focuses on survival analysis using the Head and Neck Cancer dataset
 The main goal of this analysis is to explore the factors influencing survival outcomes and to apply various statistical techniques, including Kaplan-Meier survival curves, Cox Proportional Hazards model, and Random Survival Forest (RSF). These methods are used to investigate the clinical significance of factors like age, treatment type, and stage of the disease.
 
 <h1>Files and Directories
-### 
+
+  ### 
   scripts/: Directory containing the Jupyter notebook (main.ipynb) used for survival analysis.
-### 
+
+  ### 
   data/: Directory containing the dataset used in the analysis.
 
 <h1>Installation and Requirements
