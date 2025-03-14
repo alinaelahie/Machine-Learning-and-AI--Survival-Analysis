@@ -41,14 +41,17 @@ pandas: For data manipulation and analysis.
 <h1>Methods
   
 <h2>Kaplan-Meier Survival Curves
-### 
-  The Kaplan-Meier estimator is used to estimate the survival function and compare the survival distributions of different groups (e.g., Radiation vs. Chemotherapy, Age < 60 vs. ≥ 60). Log-rank tests are performed to test if survival curves differ significantly between groups.
+
+  ### 
+The Kaplan-Meier estimator is used to estimate the survival function and compare the survival distributions of different groups (e.g., Radiation vs. Chemotherapy, Age < 60 vs. ≥ 60). Log-rank tests are performed to test if survival curves differ significantly between groups.
 
 <h2>Cox Proportional Hazards Regression
-### 
+
+  ### 
   The Cox Proportional Hazards model is applied to identify the relationship between covariates (e.g., Age, Treatment Modality, and Stage) and survival time. Hazard ratios, p-values, and confidence intervals are provided to interpret the significance of each covariate.
 
 <h2>Random Survival Forest
-### 
+
+  ### 
   Random Survival Forest (RSF) is used to assess feature importance and predict survival outcomes. The C-Index is calculated to evaluate the predictive accuracy of the model.
 
